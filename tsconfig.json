@@ -16,6 +16,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ng-bootstrap-form-validation": [
+        "dist/ng-bootstrap-form-validation"
+      ],
+      "ng-bootstrap-form-validation/*": [
+        "dist/ng-bootstrap-form-validation/*"
+      ]
+    }
   }
 }
